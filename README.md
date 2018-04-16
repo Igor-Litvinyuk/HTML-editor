@@ -1,9 +1,9 @@
 # HTML-editor
 HTML Editor (1)
 
-Во время создания HTML-editor закрепил навыки по:
-- Созданию приложения с графическим интерфейсом.
-- Работе с диалоговыми окнами.
-- Использованию классов из библиотеки Swing.
-- Реализации взаимодействия компонентов программы с помощью событий, слушателей, действий.
-- Работе с MVC.
+During the creation of the HTML-editor, I strengthened my skills in:
+- Creating an application with a graphical interface.
+- Working with dialog boxes.
+- Using classes from the Swing library.
+- Implementing the interaction of program components through events, listeners, actions.
+- Work with MVC.
